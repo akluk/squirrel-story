@@ -1,5 +1,12 @@
 My Story
-By: Aaron and the Students of 98-174 F17
+By: Aaron Perley and the Students of 98-174 F17
+
+Table of Contents
+-----------------
+Chapter 1
+Chapter 2
+Chapter 3
+Epilogue
 
 Chapter 1
 ---------
@@ -14,4 +21,12 @@ Chapter 2
 ---------
 Nibbles was sleeping when he suddently sees obi wan's force ghost, which tells
 him to go to the dagobah system. WILL NIBBLES GO TO THE DAGOBAH SYSTEM??? find out
-next time on dragon ball z.
+next time on dragon ball z. It was a dream and he saw a beautiful squirrel.
+Facing him was his old, trusty mirror, smudged with the hours he spent gazing
+into his own reflection. Sadly, he approached his reflection and stroked the
+glass lightly with his paw. "You are beautiful and worthy of love," he whispered.
+"Thanks, Nibbles," replied the mirror.
+
+Epilogue
+---------
+Nibbles signed up for 98-174 and learned how to use git super well!
